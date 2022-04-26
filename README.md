@@ -1,1 +1,1 @@
-Perform operaot overloading on JumpPrime and DuelingJP objects
+Perform operator overloading on JumpPrime and DuelingJP objects
